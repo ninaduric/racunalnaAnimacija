@@ -1,0 +1,53 @@
+﻿  Main.cpp
+C:\Users\ninad\OneDrive\Radna površina\FER\racunalnaAnimacija\lab3\GLUTx32-GLEWx32-0\Main.h(119,25): warning C4244: 'argument': conversion from 'GLint' to 'GLfloat', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+C:\Users\ninad\OneDrive\Radna površina\FER\racunalnaAnimacija\lab3\GLUTx32-GLEWx32-0\Main.h(119,14): warning C4244: 'argument': conversion from 'GLint' to 'GLfloat', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+C:\Users\ninad\OneDrive\Radna površina\FER\racunalnaAnimacija\lab3\GLUTx32-GLEWx32-0\Main.h(121,26): warning C4244: 'argument': conversion from 'GLint' to 'GLfloat', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+C:\Users\ninad\OneDrive\Radna površina\FER\racunalnaAnimacija\lab3\GLUTx32-GLEWx32-0\Main.h(121,14): warning C4244: 'argument': conversion from 'GLint' to 'GLfloat', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+C:\Users\ninad\OneDrive\Radna površina\FER\racunalnaAnimacija\lab3\GLUTx32-GLEWx32-0\Main.h(123,26): warning C4244: 'argument': conversion from 'GLint' to 'GLfloat', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+C:\Users\ninad\OneDrive\Radna površina\FER\racunalnaAnimacija\lab3\GLUTx32-GLEWx32-0\Main.h(123,14): warning C4244: 'argument': conversion from 'GLint' to 'GLfloat', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+C:\Users\ninad\OneDrive\Radna površina\FER\racunalnaAnimacija\lab3\GLUTx32-GLEWx32-0\Main.h(125,25): warning C4244: 'argument': conversion from 'GLint' to 'GLfloat', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+C:\Users\ninad\OneDrive\Radna površina\FER\racunalnaAnimacija\lab3\GLUTx32-GLEWx32-0\Main.h(125,14): warning C4244: 'argument': conversion from 'GLint' to 'GLfloat', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+C:\Users\ninad\OneDrive\Radna površina\FER\racunalnaAnimacija\lab3\GLUTx32-GLEWx32-0\Main.h(149,17): warning C4101: 'len2': unreferenced local variable
+  (compiling source file 'Main.cpp')
+  
+C:\Users\ninad\OneDrive\Radna površina\FER\racunalnaAnimacija\lab3\GLUTx32-GLEWx32-0\Main.h(196,22): warning C4244: 'argument': conversion from 'GLint' to 'GLfloat', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+C:\Users\ninad\OneDrive\Radna površina\FER\racunalnaAnimacija\lab3\GLUTx32-GLEWx32-0\Main.h(196,15): warning C4244: 'argument': conversion from 'GLint' to 'GLfloat', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+C:\Users\ninad\OneDrive\Radna površina\FER\racunalnaAnimacija\lab3\GLUTx32-GLEWx32-0\Main.h(198,27): warning C4244: 'argument': conversion from 'GLint' to 'GLfloat', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+C:\Users\ninad\OneDrive\Radna površina\FER\racunalnaAnimacija\lab3\GLUTx32-GLEWx32-0\Main.h(198,21): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+C:\Users\ninad\OneDrive\Radna površina\FER\racunalnaAnimacija\lab3\GLUTx32-GLEWx32-0\Main.h(200,33): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+C:\Users\ninad\OneDrive\Radna površina\FER\racunalnaAnimacija\lab3\GLUTx32-GLEWx32-0\Main.h(200,21): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+C:\Users\ninad\OneDrive\Radna površina\FER\racunalnaAnimacija\lab3\GLUTx32-GLEWx32-0\Main.h(202,28): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+C:\Users\ninad\OneDrive\Radna površina\FER\racunalnaAnimacija\lab3\GLUTx32-GLEWx32-0\Main.h(202,15): warning C4244: 'argument': conversion from 'GLint' to 'GLfloat', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+  GLUTx32-GLEWx32-0.vcxproj -> C:\Users\ninad\OneDrive\Radna površina\FER\racunalnaAnimacija\lab3\GLUTx32-GLEWx32-0\Debug\GLUTx32-GLEWx32-0.exe
